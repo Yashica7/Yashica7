@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashica7&label=Profile%20views&color=0e75b6&style=flat" alt="yashica7" /> </p>
 
-- 🔭 I’m currently working on **full stack web applications**
+- 🔭 I’m currently working on **MERN stack web applications**
 
 - 🌱 I’m currently learning **more about Backend architecture and Frontend frameworks**
 
