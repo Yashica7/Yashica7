@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Yashica</h1>
-<h3 align="left">I'm a third year student in CS Engineering. I'm passionate about Competitive Programming, Web Development and Open Source. I'm always open to working with new tech stacks</h3>
+<h3 align="left">I'm a third year student in CS Engineering. I'm passionate about Competitive Programming,Cloud Computing, Web Development and Open Source. I'm always open to working with new tech stacks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashica7&label=Profile%20views&color=0e75b6&style=flat" alt="yashica7" /> </p>
 
