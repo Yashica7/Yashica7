@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack web applications**
 
-- 🌱 I’m currently learning **more about Backend architecture and Frontend frameworks**
+- 🌱 I’m currently learning **more about Backend architecture and Cloud Computing technologies**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
